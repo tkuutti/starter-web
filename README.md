@@ -9,7 +9,15 @@ This example is to show different parts of the Git repository and various comman
 ## Purpose
 
 As stated above, the main purpose is to provide simple examplas for Git training demos.
+
 ## Deployment
 
 This is a simple web project, depleyment can be on any web server or even local file system.
+
 ## How to contribute
+
+Please fork this repository and then issue Pull Request to review.
+
+### Copyright
+
+2014 foo faa fuu
