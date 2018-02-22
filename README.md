@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request to review.
 
 ### Copyright
 
-2014 foo faa fuu
+2014 Git.Training. All right reserverd.
